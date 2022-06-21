@@ -1,4 +1,8 @@
-## 👋 Hello, I'm Rajesh Gole!
+<h1 align="center">👋 Hello, I'm Rajesh Gole! </h1>
+
+
+<p> <img align="right" height="20%" width="20%" img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> </p>
+
 <!-- Talking about you -->
 **About Me:**
 - 😎 I’m working on __M__, __E__, __R__, __N__
@@ -12,18 +16,29 @@
 rajesh-gole/rajesh-gole is a ✨ special ✨ repository .
 --->
 <!-- Your title -->
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="rajesh-gole :: Visitor's Count" /></p>
+<br/>
 
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCPCq9PebkjUVKSoqXUu4XDQ?label=Input%20Output%20Campus&style=social">
+<img alt="Input Output Campus" src="https://img.shields.io/youtube/channel/views/UCPCq9PebkjUVKSoqXUu4XDQ?label=Input%20Output%20Campus&style=social">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rajesh-gole)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-gole-949901176/)
 
 &nbsp;
 
+
+<p><img align="right" height="100%" width="40%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<a href="https://github.com/rajesh-gole/github-readme-stats">
+   <img width="60%" alt="rajesh-gole github stats" src="https://github-readme-stats.vercel.app/api?username=rajesh-gole&show_icons=true&hide_border=true" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-gole&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/rajesh-gole/github-readme-stats)
 
 ---
 
@@ -71,11 +86,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
 </p>
 
----
 
-<a href="https://github.com/rajesh-gole/github-readme-stats">
-   <img width="60%" alt="rajesh-gole github stats" src="https://github-readme-stats.vercel.app/api?username=rajesh-gole&show_icons=true&hide_border=true" />
-</a>
 
 -----
 
