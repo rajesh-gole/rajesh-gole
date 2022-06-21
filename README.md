@@ -24,7 +24,9 @@ rajesh-gole/rajesh-gole is a ✨ special ✨ repository .
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<img alt="Input Output Campus" src="https://img.shields.io/youtube/channel/views/UCPCq9PebkjUVKSoqXUu4XDQ?label=Input%20Output%20Campus&style=social">
+
+<!-- <img alt="Input Output Campus" src="https://img.shields.io/youtube/channel/views/UCPCq9PebkjUVKSoqXUu4XDQ?label=Input%20Output%20Campus&style=social"> -->
+
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rajesh-gole)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-gole-949901176/)
@@ -37,6 +39,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://github.com/rajesh-gole/github-readme-stats">
    <img width="60%" alt="rajesh-gole github stats" src="https://github-readme-stats.vercel.app/api?username=rajesh-gole&show_icons=true&hide_border=true" />
 </a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-gole&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/rajesh-gole/github-readme-stats)
 
@@ -94,6 +97,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=rajesh-gole&repo=Blog-App-using-MERN&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/rajesh-gole/Blog-App-using-MERN)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=rajesh-gole&repo=Chat_App_MERN&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/rajesh-gole/Chat_App_MERN)
+
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=rajesh-gole'> <a href="https://github.com/rajesh-gole?tab=followers"></a>
 </p>
