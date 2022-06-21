@@ -27,7 +27,7 @@ rajesh-gole/rajesh-gole is a ✨ special ✨ repository .
 You can use the website to generate badges: https://shields.io/
 -->
 
-<!-- <img alt="Input Output Campus" src="https://img.shields.io/youtube/channel/views/UCPCq9PebkjUVKSoqXUu4XDQ?label=Input%20Output%20Campus&style=social"> -->
+<img alt="Input Output Campus" src="https://img.shields.io/youtube/channel/views/UCPCq9PebkjUVKSoqXUu4XDQ?label=Input%20Output%20Campus&style=social">
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rajesh-gole)
