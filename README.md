@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hello, I'm Rajesh Gole! </h1>
 
-# I'm a
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer)](https://git.io/typing-svg)
 
 
