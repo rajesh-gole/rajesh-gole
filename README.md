@@ -90,5 +90,17 @@ You can use the website to generate badges: https://shields.io/
 
 -----
 
+## My Trending Repos 
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=rajesh-gole&repo=Blog-App-using-MERN&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/rajesh-gole/Blog-App-using-MERN)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=rajesh-gole&repo=Chat_App_MERN&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/rajesh-gole/Chat_App_MERN)
+
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=rajesh-gole'> <a href="https://github.com/rajesh-gole?tab=followers"></a>
+</p>
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
+
+-----
+
 Credits: [rajesh-gole](https://github.com/rajesh-gole) & [input-output-campus](https://youtube.com/InputOutputCampus)
 
