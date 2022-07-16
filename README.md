@@ -3,7 +3,7 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer)](https://git.io/typing-svg)
 
 
-<p> <img align="right" height="20%" width="20%" img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> </p>
+<p> <img align="right" height="30%" width="30%" img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> </p>
 
 <!-- Talking about you -->
 **About Me:**
@@ -11,7 +11,7 @@
 - 👀 I’m enthusiast in Data Science and ML
 - 💞️ Love to share knowledge.
 - 🌱 Founder __@InputOutputCampus__
-- 😃 Fun-Fact: I was a Physics Graduate before becoming a software engineer.
+- 😃 Fun-Fact: I was a Physics Graduate before becoming a Software Engineer.
 - 📫 For any queries (Input Output Campus) contact here :) __inpput.outpput@gmail.com__
 
 <!---
@@ -36,7 +36,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 
-<p><img align="right" height="100%" width="40%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" height="100%" width="40%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="rajesh-gole" /></p>
 
 <a href="https://github.com/rajesh-gole/github-readme-stats">
    <img width="60%" alt="rajesh-gole github stats" src="https://github-readme-stats.vercel.app/api?username=rajesh-gole&show_icons=true&hide_border=true" />
