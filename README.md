@@ -10,28 +10,17 @@
 - 😎 I’m working on __M__, __E__, __R__, __N__
 - 👀 I’m enthusiast in Data Science and ML
 - 💞️ Love to share knowledge.
-- 🌱 Founder __@InputOutputCampus__
-- 😃 Fun-Fact: I was a Physics Graduate before becoming a Software Engineer.
-- 📫 For any queries (Input Output Campus) contact here :) __inpput.outpput@gmail.com__
-
-<!---
-rajesh-gole/rajesh-gole is a ✨ special ✨ repository .
---->
-<!-- Your title -->
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="rajesh-gole :: Visitor's Count" /></p>
-<br/>
+- 📫 For any queries contact here :) __rajeshgole.official@gmail.com__
 
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-<img alt="Input Output Campus" src="https://img.shields.io/youtube/channel/views/UCPCq9PebkjUVKSoqXUu4XDQ?label=Input%20Output%20Campus&style=social">
 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rajesh-gole)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-gole-949901176/)
+
+
+
+
+
+
 
 &nbsp;
 
